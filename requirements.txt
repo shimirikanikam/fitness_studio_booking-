@@ -1,0 +1,4 @@
+Django==5.2.2
+djangorestframework==3.16.0
+pytz==2025.2
+request-response-logging==1.0.4
